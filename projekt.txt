@@ -6,6 +6,7 @@ Temat projektu B [link do projektu na github]
 2	Gołdyn	Michał Robert
 3	Górecki	Jakub Wiktor
 4	Grudzień	Natalia Weronika
+A Biblioteka 
 5	Gruszka	Jan Krzysztof
 6	Kuśmierek	Dominik Patryk
 7	Lebiedzińska	Paulina Dorota
