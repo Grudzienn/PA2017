@@ -15,6 +15,7 @@ Temat projektu B [link do projektu na github]
 
 4	Grudzień	Natalia Weronika
    A: Gra w dopasowanie [https://github.com/Grudzienn/Gra-w-D]
+   b: Gra dwuwymiarowa [https://github.com/Grudzienn/p2]
 
 5	Gruszka	Jan Krzysztof          
   A: Gra "Pong" (C++) [https://github.com/jasiugruszka/GRUSZKA-PONG]
